@@ -25,7 +25,7 @@ mirrors:
       # Discord account settings, then Right-Click -> Copy ID on a channel.                               #
       # NOTE: You can also mirror categories and forums.                                                  #
       channelIds:                                                                                         #
-         - "1242177845782908928"                                                             #
+         - "1232691173743919124"                                                             #
       # ───────────────────────────────────────────────────────────────────────────────────────────────── #
 
       # ───────────────────────────────────────────────────────────────────────────────────────────────── #
@@ -33,7 +33,7 @@ mirrors:
       # You can create a webhook for a channel with:                                                      #
       # Edit channel -> Integrations -> Webhooks -> New webook.                                           #
       webhookUrls:                                                                                        #
-         - "https://discord.com/api/webhooks/1242178124507250688/YGwcK-4HVPz4TGIVd7YKLSJxdq9Dv4xVdy1RjFy5c9fsWH-n8kIEY4KpM5TR7IaamGOP"                                                          #
+         - "https://discord.com/api/webhooks/1242185423288139846/19Xjv1VEioJJb5yaRdHwSba24XfmpT-pHwiTibYLLi8xcHNGsKVLHVYsD5H5HjN4DE_s"                                                          #
       # ───────────────────────────────────────────────────────────────────────────────────────────────── #
 
       # ───────────────────────────────────────────────────────────────────────────────────────────────── #
