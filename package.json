@@ -4,7 +4,7 @@
       "build": "npx tsc --build"
    },
    "dependencies": {
-      "discord.js-selfbot-v13": "^2.14.10",
+      "discord.js": "^12.5.3",
       "yaml": "^2.3.2"
    },
    "devDependencies": {
